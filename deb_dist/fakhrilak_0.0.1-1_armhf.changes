@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Wed, 06 Apr 2022 14:58:47 +0100
+Source: fakhrilak
+Binary: python3-fakhrilak
+Architecture: all
+Version: 0.0.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: fakhrilak <fakhrilak@zilog.tech>
+Changed-By: fakhrilak <fakhrilak@zilog.tech>
+Description:
+ python3-fakhrilak - Simple Package(Example) for packaging Tvb to Debian
+Changes:
+ fakhrilak (0.0.1-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ 6ac3b5baeb2c7edbab5cc3a797215573ff20d7f0 5621 fakhrilak_0.0.1-1_armhf.buildinfo
+ 3b2a08f698f3b2bb98ed8628e68b1b5f5197f5ce 2896 python3-fakhrilak_0.0.1-1_all.deb
+Checksums-Sha256:
+ 276d1eece403a851ed178cbddb30261d7138eca852f3bec34ede859f3fce6369 5621 fakhrilak_0.0.1-1_armhf.buildinfo
+ e932ff3729aff57ede3591167b765012a886b7cfe8a6a6ae791fde157834e25a 2896 python3-fakhrilak_0.0.1-1_all.deb
+Files:
+ c28b6abd5bc936338ee09c1dcab24fd2 5621 python optional fakhrilak_0.0.1-1_armhf.buildinfo
+ dc006de71ee87439a4c0ca31a9f4e0c5 2896 python optional python3-fakhrilak_0.0.1-1_all.deb

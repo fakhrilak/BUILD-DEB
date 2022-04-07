@@ -1,0 +1,11 @@
+Package: python3-fakhrilak
+Source: fakhrilak
+Version: 0.0.1-1
+Architecture: all
+Maintainer: fakhrilak <fakhrilak@zilog.tech>
+Installed-Size: 21
+Depends: python3:any
+Section: python
+Priority: optional
+Homepage: https://github.com/fakhrilak/fakhrilak
+Description: Simple Package(Example) for packaging Tvb to Debian

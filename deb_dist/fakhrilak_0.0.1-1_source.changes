@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 06 Apr 2022 14:58:47 +0100
+Source: fakhrilak
+Architecture: source
+Version: 0.0.1-1
+Distribution: unstable
+Urgency: low
+Maintainer: fakhrilak <fakhrilak@zilog.tech>
+Changed-By: fakhrilak <fakhrilak@zilog.tech>
+Changes:
+ fakhrilak (0.0.1-1) unstable; urgency=low
+ .
+   * source package automatically created by stdeb 0.10.0
+Checksums-Sha1:
+ c406f4571acf408c7642f62662961e40c362e44b 888 fakhrilak_0.0.1-1.dsc
+ c469dc067a9312d71d605762bc424c2e96d52b07 1352 fakhrilak_0.0.1.orig.tar.gz
+ 9f9796c53a252dca805b646de44af3346b9ed21c 876 fakhrilak_0.0.1-1.debian.tar.xz
+ 1ca98927026eb72f7257654b5020fb0dc1448885 5559 fakhrilak_0.0.1-1_source.buildinfo
+Checksums-Sha256:
+ 434ebc7efc852bea67d7fc05da233854132c6c8260cf8529c729341ea338453e 888 fakhrilak_0.0.1-1.dsc
+ 2f5e3fcd53f3d356effde65cff74c6abecd8b3598b96bab9413ffee37a51b438 1352 fakhrilak_0.0.1.orig.tar.gz
+ d563e417d87edbe9792363b6b17c1388dc5129ce6252ea81f7082d527e7c48f3 876 fakhrilak_0.0.1-1.debian.tar.xz
+ beea1308d452428a241858e06325b73dfd2eee867e4b7140dce4281035b0ac94 5559 fakhrilak_0.0.1-1_source.buildinfo
+Files:
+ fe104f150a29a99bed0229294cff5802 888 python optional fakhrilak_0.0.1-1.dsc
+ b38ba76b64b8f0b6f21ab0046dee2d9a 1352 python optional fakhrilak_0.0.1.orig.tar.gz
+ ffadd8cd53fbdeb16cefda688bb2d42f 876 python optional fakhrilak_0.0.1-1.debian.tar.xz
+ d3b3e784390d7620153aa59a5932822a 5559 python optional fakhrilak_0.0.1-1_source.buildinfo

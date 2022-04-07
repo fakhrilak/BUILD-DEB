@@ -1,0 +1,2 @@
+import fakhrilak
+fakhrilak.main()

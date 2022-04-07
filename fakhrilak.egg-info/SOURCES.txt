@@ -1,0 +1,7 @@
+setup.py
+fakhrilak/__init__.py
+fakhrilak.egg-info/PKG-INFO
+fakhrilak.egg-info/SOURCES.txt
+fakhrilak.egg-info/dependency_links.txt
+fakhrilak.egg-info/entry_points.txt
+fakhrilak.egg-info/top_level.txt
